@@ -1,0 +1,951 @@
+QtiPlot 0.9.8 project file
+<scripting-lang>	muParser
+<windows>	9
+<table>
+Table3	105	2	3/17/16 12:10 PM
+geometry	0	0	286	220	
+header	1[X]	2[Y]
+ColWidth	100	100	
+<com>
+</com>
+ColType	0;0/13	0;0/13
+ReadOnlyColumn	0	0
+HiddenColumn	0	0
+Comments			
+WindowLabel		2
+<data>
+0	2	0.3333333333333
+1	3	0.2
+2	4	0.1428571428571
+3	5	0.1111111111111
+4	6	0.09090909090909
+5	7	0.07692307692308
+6	8	0.06666666666667
+7	9	0
+8	10	0.05263157894737
+9	11	0
+10	12	0.03225806451613
+11	13	0.04347826086957
+12	14	0.04
+13	15	0.05555555555556
+14	16	0.02702702702703
+15	17	0.06666666666667
+16	18	0.05882352941176
+17	19	0.08571428571429
+18	20	0.04761904761905
+19	21	0.08695652173913
+20	22	0.06666666666667
+21	23	0.09090909090909
+22	24	0.07692307692308
+23	25	0.08695652173913
+24	26	0.1034482758621
+25	27	0.1
+26	28	0.1034482758621
+27	29	0.1228070175439
+28	30	0.1076923076923
+29	31	0.1212121212121
+30	32	0.1388888888889
+31	33	0.1388888888889
+32	34	0.1139240506329
+33	35	0.1392405063291
+34	36	0.1494252873563
+35	37	0.1460674157303
+36	38	0.1685393258427
+37	39	0.1807228915663
+38	40	0.1264367816092
+39	41	0.1612903225806
+40	42	0.1020408163265
+41	43	0.1851851851852
+42	44	0.1752577319588
+43	45	0.1919191919192
+44	46	0.1401869158879
+45	47	0.1775700934579
+46	48	0.1789473684211
+47	168	0.6425339366516
+48	169	0.5754923413567
+49	170	0.6206896551724
+50	172	0.5745614035088
+51	173	0.5448577680525
+52	174	0.5974576271186
+53	175	0.5276595744681
+54	176	0.5478260869565
+55	177	0.5260869565217
+56	178	0.5175257731959
+57	179	0.5103734439834
+58	180	0.5185185185185
+59	181	0.49609375
+60	182	0.4741035856574
+61	183	0.495145631068
+62	184	0.4989898989899
+63	185	0.495183044316
+64	186	0.4891944990177
+65	187	0.4859437751004
+66	188	0.4775828460039
+67	189	0.4709193245779
+68	190	0.4901185770751
+69	191	0.4684512428298
+70	192	0.484962406015
+71	193	0.4791252485089
+72	194	0.469465648855
+73	195	0.4713493530499
+74	196	0.4678899082569
+75	197	0.4528301886792
+76	198	0.455223880597
+77	199	0.4358047016275
+78	200	0.4548802946593
+79	201	0.4472727272727
+80	202	0.4475138121547
+81	203	0.4290843806104
+82	204	0.4495412844037
+83	205	0.4198198198198
+84	206	0.4414414414414
+85	207	0.4213381555154
+86	208	0.4414414414414
+87	209	0.4260249554367
+88	210	0.4275491949911
+89	211	0.4362657091562
+90	212	0.4199288256228
+91	213	0.438282647585
+92	214	0.4408602150538
+93	215	0.4397031539889
+94	216	0.44128113879
+95	217	0.4509803921569
+96	218	0.4571428571429
+97	219	0.4502712477396
+98	220	0.4590747330961
+99	221	0.4616755793226
+100	222	0.4657039711191
+101	223	0.4542190305206
+102	224	0.5160142348754
+103	225	0.491103202847
+104	226	0.4964285714286
+</data>
+</table>
+<table>
+Table2	30	2	3/17/16 10:14 PM
+geometry	510	0	445	220	
+header	1[X]	2[Y]
+ColWidth	100	100	
+<com>
+</com>
+ColType	0;0/13	0;0/13
+ReadOnlyColumn	0	0
+HiddenColumn	0	0
+Comments			
+WindowLabel		2
+<data>
+0	1	1
+1	2	0.5
+2	3	0.2
+3	4	0.1428571428571
+4	5	0.25
+5	6	0.5
+</data>
+</table>
+<table>
+Table4	30	2	3/17/16 10:19 PM
+geometry	820	70	445	220	
+header	1[X]	2[Y]
+ColWidth	100	100	
+<com>
+</com>
+ColType	0;0/13	0;0/13
+ReadOnlyColumn	0	0
+HiddenColumn	0	0
+Comments			
+WindowLabel		2
+<data>
+0	1	1
+1	2	0.5
+2	3	0.2
+3	4	0.1428571428571
+4	5	0.1111111111111
+5	6	0.2
+6	7	0.4
+7	8	0.6
+</data>
+</table>
+<table>
+Table5	93	2	3/17/16 10:28 PM
+geometry	449	246	445	220	
+header	1[X]	2[Y]
+ColWidth	100	100	
+<com>
+</com>
+ColType	0;0/13	0;0/13
+ReadOnlyColumn	0	0
+HiddenColumn	0	0
+Comments			
+WindowLabel		2
+<data>
+0	2	0.3333333333333
+1	3	0.2
+2	4	0.2
+3	5	0.2
+4	6	0.125
+5	7	0.1428571428571
+6	8	0.1
+7	9	0.1
+8	10	0.08333333333333
+9	11	0.06666666666667
+10	12	0.03225806451613
+11	13	0.06666666666667
+12	14	0.06666666666667
+13	15	0.05555555555556
+14	16	0.1
+15	17	0.07692307692308
+16	18	0.09090909090909
+17	19	0.08333333333333
+18	20	0.09803921568627
+19	21	0.125
+20	22	0.1272727272727
+21	23	0.1111111111111
+22	24	0.09677419354839
+23	25	0.1111111111111
+24	26	0.1111111111111
+25	27	0.09677419354839
+26	28	0.08333333333333
+27	29	0.1466666666667
+28	30	0.1428571428571
+29	31	0.1111111111111
+30	32	0.1538461538462
+31	33	0.1466666666667
+32	34	0.1460674157303
+33	35	0.1428571428571
+34	36	0.1707317073171
+35	37	0.1627906976744
+36	38	0.1688311688312
+37	39	0.1875
+38	40	0.1666666666667
+39	41	0.1287128712871
+40	43	0.1743119266055
+41	48	0.2075471698113
+42	159	0.6157407407407
+43	165	0.5466666666667
+44	166	0.5799086757991
+45	167	0.5644444444444
+46	168	0.5108225108225
+47	169	0.5281837160752
+48	170	0.5094339622642
+49	171	0.53125
+50	172	0.504132231405
+51	173	0.5103734439834
+52	174	0.5139784946237
+53	175	0.4826086956522
+54	176	0.4817813765182
+55	177	0.5127118644068
+56	178	0.4959677419355
+57	179	0.5010309278351
+58	180	0.4891944990177
+59	181	0.468992248062
+60	182	0.4693069306931
+61	183	0.4661190965092
+62	184	0.4669421487603
+63	185	0.4581673306773
+64	186	0.4601941747573
+65	187	0.4619883040936
+66	188	0.4446529080675
+67	189	0.4584980237154
+68	190	0.4489402697495
+69	191	0.4452830188679
+70	192	0.4426877470356
+71	193	0.4440298507463
+72	194	0.4455066921606
+73	195	0.4349442379182
+74	196	0.4307116104869
+75	197	0.4280442804428
+76	198	0.4327808471455
+77	199	0.4329501915709
+78	200	0.4354243542435
+79	201	0.4397031539889
+80	202	0.4386617100372
+81	203	0.4365671641791
+82	204	0.4429906542056
+83	205	0.4232902033272
+84	206	0.4428044280443
+85	207	0.450184501845
+86	208	0.4592592592593
+87	209	0.462962962963
+88	210	0.456561922366
+89	211	0.4569288389513
+90	212	0.4944649446494
+91	213	0.4981412639405
+92	214	0.4713493530499
+</data>
+</table>
+<table>
+Draw1	30	2	3/17/16 10:45 PM
+geometry	930	463	445	220	hidden
+header	1[X]	2[Y]
+ColWidth	100	100	
+<com>
+</com>
+ColType	0;0/13	0;0/13
+ReadOnlyColumn	0	0
+HiddenColumn	0	0
+Comments			
+WindowLabel		2
+<data>
+0	11.48936170213	-0.001515151515152
+1	24.68085106383	-0.05606060606061
+</data>
+</table>
+<multiLayer>
+Graph2	1	1	3/17/16 10:14 PM
+geometry	64	12	527	469	
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	5	4	509	406
+<PageGeometry>0.00963391	0.00950119	0.980732	0.964371</PageGeometry>
+PlotTitle		#000000	4228
+<Antialiasing>0</Antialiasing>
+<Autoscaling>1</Autoscaling>
+<ScaleFonts>1</ScaleFonts>
+<GridOnTop>0</GridOnTop>
+<MissingDataGap>1</MissingDataGap>
+Background	#ffffff	0
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	1	1	1	
+AxesTitles	k (number of nodes in the cluster)	Φ(k) (minimum conductance for the cluster with cardinality k)			
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+InvertedTitle	0	0	0	0
+TitleFont	Ubuntu	13	75	0	0	0
+ScaleFont0	Ubuntu	11	75	0	0	0
+ScaleFont1	Ubuntu	11	75	0	0	0
+ScaleFont2	Ubuntu	11	75	0	0	0
+ScaleFont3	Ubuntu	11	75	0	0	0
+AxisFont0	Ubuntu	11	50	0	0	0
+AxisFont1	Ubuntu	11	50	0	0	0
+AxisFont2	Ubuntu	11	50	0	0	0
+AxisFont3	Ubuntu	11	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#3c3c3c	#3c3c3c	#3c3c3c	#3c3c3c
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	0
+curve	Table2_1	Table2_2	2	1	#000000	0	1	7	1	#000000	#000000	0	#000000	14	1	2	0	0	29	1
+scale	0	0	1.2	0	7	5	0	0
+scale	1	0	1.2	0	7	5	0	0
+scale	2	0	7	0	8	5	0	0
+scale	3	0	7	0	8	5	0	0
+LabelsFormat	0	6	0	6	0	6	0	6
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1
+MinorTicks	1	1	1	1
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	1	1	1
+<line>	4.0075	0.0444444444444444	4.0075	0.0444444444444444	1	#000000	SolidLine	0	0	4	45	1	1</line>
+<line>	4.0075	0.344444444444444	4.0075	-0.0222222222222222	1	#ff0000	DashLine	0	0	4	45	1	1</line>
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>0.45386533665835</x>
+<y>1.1741538461538</y>
+<right>1.9075</right>
+<bottom>1.05555555555556</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+\l(1) NCP plot for the first connected component
+</Text>
+<Font>Ubuntu	11	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>1.7107231920199</x>
+<y>1.0301538461538</y>
+<right>1.9075</right>
+<bottom>1.05555555555556</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+This connected component has  total 9 nodes
+</Text>
+<Font>Ubuntu	10	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>0</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>1.9425</x>
+<y>0.88518518518519</y>
+<right>6.86</right>
+<bottom>0.718518518518518</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+Generated from 50000 tries of MQI with 
+different RNG seeds for the initial partition
+</Text>
+<Font>Ubuntu	10	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>0</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>3.5875</x>
+<y>0.47777777777778</y>
+<right>1.9075</right>
+<bottom>1.05555555555556</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+k=4
+</Text>
+<Font>Ubuntu	11	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>0</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
+<multiLayer>
+Graph3	1	1	3/17/16 10:20 PM
+geometry	742	7	527	469	
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	5	5	509	406
+<PageGeometry>0.00963391	0.0118765	0.980732	0.964371</PageGeometry>
+PlotTitle		#000000	4228
+<Antialiasing>0</Antialiasing>
+<Autoscaling>1</Autoscaling>
+<ScaleFonts>1</ScaleFonts>
+<GridOnTop>0</GridOnTop>
+<MissingDataGap>1</MissingDataGap>
+Background	#ffffff	0
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	1	1	1	
+AxesTitles	k (number of nodes in the cluster)	Φ(k) (minimum conductance for the cluster with cardinality k)			
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+InvertedTitle	0	0	0	0
+TitleFont	Ubuntu	13	75	0	0	0
+ScaleFont0	Ubuntu	11	75	0	0	0
+ScaleFont1	Ubuntu	11	75	0	0	0
+ScaleFont2	Ubuntu	11	75	0	0	0
+ScaleFont3	Ubuntu	11	75	0	0	0
+AxisFont0	Ubuntu	11	50	0	0	0
+AxisFont1	Ubuntu	11	50	0	0	0
+AxisFont2	Ubuntu	11	50	0	0	0
+AxisFont3	Ubuntu	11	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#3c3c3c	#3c3c3c	#3c3c3c	#3c3c3c
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	0
+curve	Table4_1	Table4_2	2	1	#000000	0	1	7	1	#000000	#000000	0	#000000	14	1	2	0	0	29	1
+scale	0	0	1.2	0	7	5	0	0
+scale	1	0	1.2	0	7	5	0	0
+scale	2	0	9	0	10	5	0	0
+scale	3	0	9	0	10	5	0	0
+LabelsFormat	0	6	0	6	0	6	0	6
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1
+MinorTicks	1	1	1	1
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	1	1	1
+<line>	4.995	0.344444444444444	4.995	-0.0222222222222222	1	#ff0000	DashLine	0	0	4	45	1	1</line>
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>0.17955112219451</x>
+<y>1.1852307692308</y>
+<right>2.4525</right>
+<bottom>1.05555555555556</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+\l(1) NCP plot for the second connected component
+</Text>
+<Font>Ubuntu	11	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>2.0423940149626</x>
+<y>1.0375384615385</y>
+<right>2.4525</right>
+<bottom>1.05555555555556</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+This connected component has  total 11 nodes
+</Text>
+<Font>Ubuntu	10	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>0</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>4.4775</x>
+<y>0.47037037037037</y>
+<right>2.4525</right>
+<bottom>1.05555555555556</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+k=5
+</Text>
+<Font>Ubuntu	11	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>0</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>2.5425</x>
+<y>0.8962962962963</y>
+<right>8.865</right>
+<bottom>0.72962962962963</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+Generated from 50000 tries of MQI with 
+different RNG seeds for the initial partition
+</Text>
+<Font>Ubuntu	10	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>0</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
+<multiLayer>
+Graph4	1	1	3/17/16 10:29 PM
+geometry	196	664	1375	683	minimized	active
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	13	8	1357	643
+<PageGeometry>0.00945455	0.0120664	0.986909	0.969834</PageGeometry>
+PlotTitle		#000000	4228
+<Antialiasing>0</Antialiasing>
+<Autoscaling>1</Autoscaling>
+<ScaleFonts>1</ScaleFonts>
+<GridOnTop>0</GridOnTop>
+<MissingDataGap>1</MissingDataGap>
+Background	#ffffff	0
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	1	1	1	
+AxesTitles	k (number of nodes in the cluster)	Φ(k) (minimum conductance for the cluster with cardinality k)			
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+InvertedTitle	0	0	0	0
+TitleFont	Ubuntu	21	75	0	0	0
+ScaleFont0	Ubuntu	18	75	0	0	0
+ScaleFont1	Ubuntu	18	75	0	0	0
+ScaleFont2	Ubuntu	18	75	0	0	0
+ScaleFont3	Ubuntu	18	75	0	0	0
+AxisFont0	Ubuntu	18	50	0	0	0
+AxisFont1	Ubuntu	18	50	0	0	0
+AxisFont2	Ubuntu	18	50	0	0	0
+AxisFont3	Ubuntu	18	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#3c3c3c	#3c3c3c	#3c3c3c	#3c3c3c
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	0
+curve	Table5_1	Table5_2	2	1	#000000	0	1	7	1	#000000	#000000	0	#000000	14	1	2	0	0	92	1
+scale	0	0	0.7	0	8	5	0	0
+scale	1	0	0.7	0	8	5	0	0
+scale	2	0	250	0	6	5	0	0
+scale	3	0	250	0	6	5	0	0
+LabelsFormat	0	6	0	6	0	6	0	6
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1
+MinorTicks	1	1	1	1
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	1	1	1
+<line>	12.09341117598	0.250568181818182	12.09341117598	-0.0265151515151515	1	#ff0000	DashLine	0	0	4	45	1	1</line>
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>7.0892410341952</x>
+<y>0.65890151515152</y>
+<right>22.6894254787677</right>
+<bottom>0.64819734345351</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+\l(1) NCP plot for the third connected component
+</Text>
+<Font>Ubuntu	18	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>7.0892410341952</x>
+<y>0.58333333333333</y>
+<right>22.6894254787677</right>
+<bottom>0.64819734345351</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+This connected component has  total 403 nodes
+</Text>
+<Font>Ubuntu	17	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>0</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>7.7147623019183</x>
+<y>0.31022727272727</y>
+<right>22.6894254787677</right>
+<bottom>0.64819734345351</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+k=12
+</Text>
+<Font>Ubuntu	17	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>0</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>133.6242726517</x>
+<y>0.18894927536232</y>
+<right>224.438902743142</right>
+<bottom>0.111594202898551</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+Generated from 50000 tries of MQI with 
+different RNG seeds for the initial partition
+</Text>
+<Font>Ubuntu	16	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>0</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
+<multiLayer>
+Graph5	1	1	3/17/16 10:38 PM
+geometry	0	664	1375	683	minimized	
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	13	8	1365	639
+<PageGeometry>0.00945455	0.0120664	0.992727	0.963801</PageGeometry>
+PlotTitle		#000000	4228
+<Antialiasing>0</Antialiasing>
+<Autoscaling>1</Autoscaling>
+<ScaleFonts>1</ScaleFonts>
+<GridOnTop>0</GridOnTop>
+<MissingDataGap>1</MissingDataGap>
+Background	#ffffff	0
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	1	1	1	
+AxesTitles	k (number of nodes in the cluster)	Φ(k) (minimum conductance for the cluster with cardinality k)			
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+InvertedTitle	0	0	0	0
+TitleFont	Ubuntu	22	75	0	0	0
+ScaleFont0	Ubuntu	18	75	0	0	0
+ScaleFont1	Ubuntu	19	75	0	0	0
+ScaleFont2	Ubuntu	19	75	0	0	0
+ScaleFont3	Ubuntu	19	75	0	0	0
+AxisFont0	Ubuntu	18	50	0	0	0
+AxisFont1	Ubuntu	18	50	0	0	0
+AxisFont2	Ubuntu	18	50	0	0	0
+AxisFont3	Ubuntu	18	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#3c3c3c	#3c3c3c	#3c3c3c	#3c3c3c
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	0
+curve	Table3_1	Table3_2	2	1	#000000	0	1	7	1	#000000	#000000	0	#000000	14	1	2	0	0	104	1
+scale	0	-0.1	0.7	0	9	5	0	0
+scale	1	-0.1	0.7	0	9	5	0	0
+scale	2	0	250	0	6	5	0	0
+scale	3	0	250	0	6	5	0	0
+LabelsFormat	0	6	0	6	0	6	0	6
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1
+MinorTicks	1	1	1	1
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	1	1	1
+<line>	8.72340425531915	0.287878787878788	8.93617021276596	-0.153030303030303	1	#ff0000	DashLine	0	0	4	45	1	1</line>
+<line>	11.2765957446809	0.224242424242424	11.2765957446809	-0.157575757575758	1	#ff0000	DashLine	0	0	4	45	1	1</line>
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>3.6170212765957</x>
+<y>0.54090909090909</y>
+<right>22.9957805907173</right>
+<bottom>0.640571428571428</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+This Road Graph has total 423 nodes and 562 edges.
+</Text>
+<Font>Ubuntu	17	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>0</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>1.4893617021277</x>
+<y>0.68787878787879</y>
+<right>22.9957805907173</right>
+<bottom>0.640571428571428</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+                                                                   NCP plot
+\l(1)Random initial partition+Max Flow Quotient Cut Improvement Method
+</Text>
+<Font>Ubuntu	16	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>4.0425531914894</x>
+<y>0.35151515151515</y>
+<right>22.9957805907173</right>
+<bottom>0.640571428571428</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+k=9
+</Text>
+<Font>Ubuntu	17	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>0</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>9.7872340425532</x>
+<y>0.28333333333333</y>
+<right>22.9957805907173</right>
+<bottom>0.640571428571428</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+k=11
+</Text>
+<Font>Ubuntu	17	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>0</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>135.02109704641</x>
+<y>0.095047619047619</y>
+<right>227.215189873418</right>
+<bottom>0.00209523809523808</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+Generated from 50000 tries of MQI with 
+different RNG seeds for the initial partition
+</Text>
+<Font>Ubuntu	17	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>0</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
+<open>1</open>
